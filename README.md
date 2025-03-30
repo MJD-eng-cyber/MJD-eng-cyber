@@ -53,9 +53,11 @@ As a first-year Master's student in Computer Engineering and System Security at 
  </p>
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MJD-eng-cyber/MJD-eng-cyber/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MJD-eng-cybe/MJD-eng-cyber/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MJD-eng-cyber/MJD-eng-cyber/output/github-snake.svg" />
+</picture>
 
 
 <br>
